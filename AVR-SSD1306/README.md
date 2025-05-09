@@ -1,4 +1,4 @@
-# AVR SSD1306 Library  
+# efthymios-ks/AVR-SSD1306 Library  
 
 ---
 
